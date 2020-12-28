@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="major">
+        <item>*전공선택*</item>
+        <item>컴퓨터공학과</item>
+        <item>법학과</item>
+        <item>사회복지학과</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2021년</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+
+    <string-array name="graduateArea">
+        <item>전공필수</item>
+        <item>전공선택</item>
+        <item>교양</item>
+    </string-array>
+
+    <string-array name="universityArea">
+        <item>전공필수</item>
+    </string-array>
+
+<!--    대학원 학과 정보-->
+    <string-array name="graduateMajor">
+        <item>*학과선택*</item>
+        <item>불교학과</item>
+        <item>경찰행정학과</item>
+    </string-array>
+
+    <string-array name="universityRefinementMajor">
+        <item>군사학</item>
+        <item>교직이론</item>
+        <item>교직소양</item>
+        <item>청량비전</item>
+        <item>청량중점(리더쉽)</item>
+        <item>청량중점(인성)</item>
+        <item>청량중점(국제화)</item>
+        <item>청량중점(역사와문화)</item>
+        <item>청량중점(스포츠와예술)</item>
+        <item>청량중점(과학과기술)</item>
+        <item>청량중점(수리와정보)</item>
+        <item>청량중점(교육기반이해)</item>
+    </string-array>
+
+    <string-array name="universityMajor">
+        <item>유아교육과</item>
+        <item>초등교육과</item>
+        <item>교육학과</item>
+        <item>국어교육과</item>
+        <item>영어교육과</item>
+        <item>독어교육과</item>
+        <item>불어교육과</item>
+        <item>중국어교육과</item>
+        <item>윤리교육과</item>
+        <item>일반사회교육과</item>
+        <item>지리교육과</item>
+        <item>역사교육과</item>
+        <item>공통사회교육과</item>
+    </string-array>
+
+</resources>
